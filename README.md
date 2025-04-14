@@ -31,7 +31,7 @@ A simple web-based Todo list application built with Python Flask and hosted on [
 ```bash
 # Clone the repository
 git clone https://github.com/mishraji55/Todo_flask_app.git
-cd todo-flask-app
+cd Todo-flask-app
 
 # Create virtual environment and activate
 python -m venv env
